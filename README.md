@@ -1,4 +1,4 @@
-# SYN-Flood-Incident-Analysis
+# SYN-Flood-Incident-Analysis 
 Analysis of a TCP SYN Flood Denial-Of-Service Attack Using Wireshark Network Traffic.
 
 ## Overview
@@ -9,6 +9,7 @@ This project analyzes a denial-of-service (DoS) incident involving a TCP SYN flo
 
 ## Skills Demonstrated
 - Network traffic analysis
+- Wireshark Monitoring
 - TCP/IP
 - TCP three-way handshake
 - SYN flood identification
